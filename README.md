@@ -1,0 +1,2 @@
+This is my repository for all the working code of data structures like linked list, queue, Stack. 
+You can just copy and use this repository for your use and feel free to add and commit any change or error you want to do.
